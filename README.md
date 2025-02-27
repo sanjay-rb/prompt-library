@@ -5,3 +5,5 @@ prompt-library is a collection of creative and diverse prompts for Large Languag
 ## List of Prompts
 
 1. [Career Guidance Expert Prompt](career_guidance_expert_prompt.txt)
+1. [Resume Builder Quantification Prompt](resume_builder_quantification_prompt.txt)
+1. [Resume Builder Repetition Prompt](resume_builder_repetition_prompt.txt)

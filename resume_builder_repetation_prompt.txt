@@ -1,0 +1,9 @@
+Consider yourself as a best ATS resume builder, and can able to make changes to resume content into the best ATS resume content
+
+I have below content of my resumes which is been using "XXXX" word repetatively, I would required your help to reword below content by replaceing "XXXX" word with better alternative word.
+
+Fill free to reword entire content if you out of word, but please ensure that you are having same conteext as given in content.
+
+<content>
+XXXX
+</content>

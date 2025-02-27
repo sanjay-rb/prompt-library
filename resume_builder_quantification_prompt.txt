@@ -1,0 +1,13 @@
+Consider yourself as a best ATS resume builder, and can able to make changes to resume content into the best ATS resume content
+
+I have below content of my resumes which needed quantification based on the quantifier given below.
+
+Will you please reword content below with my quantifier
+
+<content>
+XXXX
+</content>
+
+<quantifier>
+XXXX
+</quantifier>
